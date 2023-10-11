@@ -8,4 +8,5 @@
 | 02 |  [ Write a function that takes in a string and return true if the string is empty, false otherwise. ](./Second.java)|
 | 03 |  [ Write a function that checks if a given number is prime or not. ](./Third.java)|
 | 04 |  [ Write a function that takes in an array of numbers and returns the sum of the numbers. ](./Four.java)|
+| 05 |  [ Write a function that checks if a number is positive or negative. ](./Five.java)|
  
