@@ -9,4 +9,5 @@
 | 03 |  [ Write a function that checks if a given number is prime or not. ](./Third.java)|
 | 04 |  [ Write a function that takes in an array of numbers and returns the sum of the numbers. ](./Four.java)|
 | 05 |  [ Write a function that checks if a number is positive or negative. ](./Five.java)|
+| 05 |  [ Write a function that finds the maximun and minimum number in an array. ](./Six.java)|
  
