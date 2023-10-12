@@ -36,9 +36,6 @@ public class Six {
         //     System.out.print(arr[i]+" ");
         // }
 
-        maxNumber(arr);
-        minNumber(arr);
-
         int max = maxNumber(arr);
         System.out.println("Maximum Number >> " + max);
         int min = minNumber(arr);
