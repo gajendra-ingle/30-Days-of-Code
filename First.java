@@ -16,6 +16,6 @@ static void evenOdd(int num){
         int num =sc.nextInt();
         evenOdd(num);
          
-
+      sc.close();
     }
 }
