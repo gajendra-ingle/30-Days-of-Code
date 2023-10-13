@@ -6,6 +6,7 @@ public class Seven {
         for (int i = 0; i < arr.length; i++) {
             for (int j = i + 1; j < arr.length; j++) {
                 if (arr[i] > arr[j]) {
+                    // condition is true then swap the element
                     int temp = arr[i];
                     arr[i] = arr[j];
                     arr[j] = temp;
@@ -18,6 +19,16 @@ public class Seven {
 
     // Descending Order
     static void sortArrayDescendingOrder(int arr[]) {
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = i + 1; j < arr.length;j++) {
+                if (arr[i] < arr[j]) {
+                    // condition is true then swap the element
+                    int temp = arr[i];
+                    arr[i] = arr[j];
+                    arr[j] = temp;
+                }
+            }
+        }
 
     }
 
@@ -38,5 +49,12 @@ public class Seven {
             System.out.print(arr[i] + " ");
         }
 
+        // Call sortArrayDescendingOrder() method
+        sortArrayDescendingOrder(arr);
+        System.out.println();
+        System.out.print("Descending order array is: ");
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
     }
 }
