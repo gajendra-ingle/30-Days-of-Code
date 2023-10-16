@@ -13,3 +13,4 @@
 | 07 |  [ Write a function that sorts an array of numbers in ascending or descending order. ](./Seven.java)|
 | 08 |  [ Write a function that finds the factorial of a given number. ](./Eight.java)|
 | 09 |  [ Write a function that returns the length of a given string. ](./Nine.java)|
+| 10 |  [ Write a function that checks if a given number is a multiple of both 3 and 5 ](./Ten.java)|
