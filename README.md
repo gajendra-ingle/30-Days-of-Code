@@ -3,7 +3,7 @@
 ## 30 days of Java programming challenge
 
 | Day | Questions                                                  |
-|------|:---------------------------------------------------------:|
+|------|---------------------------------------------------------|
 | 01 |  [ Write a function that takes in a number and return true if the number is even, false if it is odd. ](./First.java)|
 | 02 |  [ Write a function that takes in a string and return true if the string is empty, false otherwise. ](./Second.java)|
 | 03 |  [ Write a function that checks if a given number is prime or not. ](./Third.java)|
@@ -14,3 +14,4 @@
 | 08 |  [ Write a function that finds the factorial of a given number. ](./Eight.java)|
 | 09 |  [ Write a function that returns the length of a given string. ](./Nine.java)|
 | 10 |  [ Write a function that checks if a given number is a multiple of both 3 and 5 ](./Ten.java)|
+| 11 |  [ Write a function that checks the given year is a leap year or not. ](./Eleven.java)|
