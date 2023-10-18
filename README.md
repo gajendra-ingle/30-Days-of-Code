@@ -15,3 +15,4 @@
 | 09 |  [ Write a function that returns the length of a given string. ](./Nine.java)|
 | 10 |  [ Write a function that checks if a given number is a multiple of both 3 and 5 ](./Ten.java)|
 | 11 |  [ Write a function that checks the given year is a leap year or not. ](./Eleven.java)|
+| 12 |  [ Write a function that takes in a number and print the fibonacci series till the number. ](./Twelve.java)|
