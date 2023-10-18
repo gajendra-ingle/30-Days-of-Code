@@ -8,7 +8,7 @@ public class Twelve {
         int b = 1;
         int c;
 
-        for (int i = 0; i <= number; i++) {
+        for (int i = 1; i <= number; i++) {
             System.out.print(a + " ");
             c = a + b;
             a = b;
