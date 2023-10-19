@@ -19,7 +19,7 @@ public class Thirteen {
 
         System.out.print("Enter the element you want to find : ");
         int number = sc.nextInt();
-        
+
         // call the searchElement() function
         int elementFound = searchElement(arr, number);
 
