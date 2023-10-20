@@ -17,4 +17,4 @@
 | 11 |  [ Write a function that checks the given year is a leap year or not. ](./Eleven.java)|
 | 12 |  [ Write a function that takes in a number and print the fibonacci series till the number. ](./Twelve.java)|
 | 13 |  [ Write a function that search an element in an array. ](./Thirteen.java)|
-
+| 14 |  [ Write a function that converts a string to uppercase. ](./DayFourteen.java)|
