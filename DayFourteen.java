@@ -20,7 +20,7 @@ public class DayFourteen {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter any string which is to be converted to uppercase :");
-        String str = sc.next();
+        String str = sc.nextLine();
 
         // call uppercase() function
         String output = uppercase(str);
