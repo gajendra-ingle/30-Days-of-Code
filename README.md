@@ -18,3 +18,4 @@
 | 12 |  [ Write a function that takes in a number and print the fibonacci series till the number. ](./Twelve.java)|
 | 13 |  [ Write a function that search an element in an array. ](./Thirteen.java)|
 | 14 |  [ Write a function that converts a string to uppercase. ](./DayFourteen.java)|
+| 15 |  [ Write a function that converts a string to lowercase. ](./DayFifteen.java)|
