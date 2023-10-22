@@ -18,6 +18,7 @@ public class DaySixteen {
         System.out.print("Enter any one character : ");
         char ch = sc.next().charAt(0);
 
+        // Call checkCharacter() function
         checkCharacter(ch);
 
         // sc closed
