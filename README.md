@@ -19,3 +19,4 @@
 | 13 |  [ Write a function that search an element in an array. ](./Thirteen.java)|
 | 14 |  [ Write a function that converts a string to uppercase. ](./DayFourteen.java)|
 | 15 |  [ Write a function that converts a string to lowercase. ](./DayFifteen.java)|
+| 16 |  [ Write a function that checks the given input character is vowel or consonent . ](./DaySixteen.java)|
