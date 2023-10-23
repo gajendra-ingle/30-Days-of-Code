@@ -20,3 +20,4 @@
 | 14 |  [ Write a function that converts a string to uppercase. ](./DayFourteen.java)|
 | 15 |  [ Write a function that converts a string to lowercase. ](./DayFifteen.java)|
 | 16 |  [ Write a function that checks the given input character is vowel or consonent . ](./DaySixteen.java)|
+| 17 |  [ Write a function that reverse a number. ](./DaySeventeen.java)|
