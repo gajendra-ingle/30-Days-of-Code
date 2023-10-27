@@ -24,6 +24,6 @@
 | 18 |  [ Write a function that find the duplicate characters in a string. ](./DayEighteen.java)|
 | 19 |  [ Write a function that copy all elements of one array into second array. ](./DayNineteen.java)|
 | 20 |  [ Write a function that calculate the square root of the given number. ](./DayTwenty.java)|
-| 21 |  [ Write a function that remove spaces from a String . ](./DayTwentyOne.java)|
+| 21 |  [ Write a function that remove spaces from a String. ](./DayTwentyOne.java)|
 
 
