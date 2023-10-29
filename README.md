@@ -25,5 +25,5 @@
 | 19 |  [ Write a function that copy all elements of one array into second array. ](./DayNineteen.java)|
 | 20 |  [ Write a function that calculate the square root of the given number. ](./DayTwenty.java)|
 | 21 |  [ Write a function that remove spaces from a String. ](./DayTwentyOne.java)|
-| 22 |  [ Write a function that count the number of vowels, consonants, and spaces in that string.. ](./DayTwentyTwo.java)|
-
+| 22 |  [ Write a function that count the number of vowels, consonants, and spaces in that string. ](./DayTwentyTwo.java)|
+| 23 |  [ Write a function that calculate the area of the circle. ](./DayTwentyThree.java)|
