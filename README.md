@@ -27,3 +27,4 @@
 | 21 |  [ Write a function that remove spaces from a String. ](./DayTwentyOne.java)|
 | 22 |  [ Write a function that count the number of vowels, consonants, and spaces in that string. ](./DayTwentyTwo.java)|
 | 23 |  [ Write a function that calculate the area of the circle. ](./DayTwentyThree.java)|
+| 24 |  [ Write a function that check the number is Armstrong number or not. ](./DayTwentyFour.java)|
