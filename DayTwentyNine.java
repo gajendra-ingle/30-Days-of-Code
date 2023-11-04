@@ -20,5 +20,9 @@ public class DayTwentyNine {
 
     public static void main(String[] args) {
         
+        int n = 7;
+        // Function call
+        printPattern(n);
+        
     }
 }
