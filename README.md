@@ -32,4 +32,5 @@
 | 26 |  [ Write a function that swap two numbers. ](./DayTwentySix.java)|
 | 27 |  [ Write a function that find the greater number among the four number. ](./DayTwentySix.java)|
 | 28 |  [ Write a function that Find the longest word. ](./DayTwentyEight.java)|
+| 29 |  [ Write a function that print the number triangle pattern. ](./DayTwentyNine.java)|
 
