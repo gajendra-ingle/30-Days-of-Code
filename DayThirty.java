@@ -21,6 +21,7 @@ public class DayThirty {
     public static void main(String[] args) {
 
         int n = 6;
+        
         // Function Call
         printPattern(n);
     }
