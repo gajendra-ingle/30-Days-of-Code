@@ -1,5 +1,5 @@
 public class DayThirty {
-
+    // Function to print the Rhombus Pattern
     public static void printPattern(int n) {
 
         // outer loop to handle number of rows
